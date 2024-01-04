@@ -1,0 +1,54 @@
+[
+  {
+    "firstName": "Mohamed",
+    "lastName": "El Kharraz",
+    "mobile": "212600000001",
+    "email": "mohamed123@gmail.com",
+    "password": "mohamed123",
+    "pic": "",
+    "id": 1,
+    "address": "Rue 20, Casablanca",
+    "city": "Casablanca",
+    "pincode": "20000",
+    "state": "Casablanca-Settat"
+  },
+  {
+    "firstName": "Fatima",
+    "lastName": "Ait Taleb",
+    "mobile": "212600000002",
+    "email": "fatima123@gmail.com",
+    "password": "fatima123",
+    "pic": "",
+    "id": 2,
+    "address": "Rue 30, Marrakech",
+    "city": "Marrakech",
+    "pincode": "40000",
+    "state": "Marrakech-Safi"
+  },
+  {
+    "firstName": "Youssef",
+    "lastName": "Ben Ali",
+    "mobile": "212600000003",
+    "email": "youssef123@gmail.com",
+    "password": "youssef123",
+    "pic": "",
+    "id": 3,
+    "address": "Rue 40, Rabat",
+    "city": "Rabat",
+    "pincode": "10000",
+    "state": "Rabat-Salé-Kénitra"
+  },
+  {
+    "firstName": "Amina",
+    "lastName": "El Fassi",
+    "mobile": "212600000004",
+    "email": "amina123@gmail.com",
+    "password": "amina123",
+    "pic": "",
+    "id": 4,
+    "address": "Rue 50, Fès",
+    "city": "Fès",
+    "pincode": "30000",
+    "state": "Fès-Meknès"
+  }
+]
