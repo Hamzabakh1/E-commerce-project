@@ -1,85 +1,6 @@
 [
   {
-    "color": [
-      "black",
-      "red",
-      "blue",
-      "pink"
-    ],
-    "image": [
-      "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/black_bdca4987-8550-461d-bb37-b1bae02009b4_600x.png?v=1678969539",
-      "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/WaveLite_GIFCarousal_001_800x.jpg?v=1678969539",
-      "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/CB_05601a56-8da0-439a-86c8-072dafdf0a5b_600x.png?v=1678969539",
-      "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/WaveLite_GIFCarousal_003_800x.jpg?v=1678969539",
-      "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/Red_07475267-c306-40f2-8bd2-9b8311620c42_600x.png?v=1678969539"
-    ],
-    "tag_badge": "Health Monitoring",
-    "title": "Wave Lite",
-    "price": 1799,
-    "discount": 74,
-    "mrp": 6990,
-    "rating": 4.9,
-    "category": "smart_watches",
-    "id": 13,
-    "description": "HD Display 70% RGB colour Ultra Slim ",
-    "brand": "Syska",
-    "quantity": 1,
-    "review": 2383
-  },
-  {
-    "color": [
-      "black",
-      "green",
-      "pink"
-    ],
-    "image": [
-      "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/MAINPRIMIA_300x.png?v=1673000401",
-      "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/Storm_call.gif?v=1661268575",
-      "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/pdp-2.png?v=1661268547",
-      "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/pdp-6_a68b6fc4-0226-4630-a5b1-313c2d45a73f.png?v=1661268547",
-      "https://cdn.shopify.com/s/files/1/0057/8938/4802/files/pdp-5_b1d791f1-fc81-43ac-bfd4-c1991da569ad.png?v=1661268548"
-    ],
-    "tag_badge": "Bt Calling",
-    "title": "Watch‌ Primia",
-    "price": 4999,
-    "discount": 44,
-    "mrp": 8990,
-    "rating": 4.9,
-    "category": "smart_watches",
-    "id": 17,
-    "description": "BT Calling Always On AMOLED Display Stress Monitoring ",
-    "brand": "realme",
-    "quantity": 1,
-    "review": 48905
-  },
-  {
-    "color": [
-      "black",
-      "blue"
-    ],
-    "image": [
-      "https://cdn.shopify.com/s/files/1/0564/3006/7870/products/ACERAN515-45-R2GL_320x.jpg?v=1660545864",
-      "https://cdn.shopify.com/s/files/1/0564/3006/7870/products/RedmiBook15Corei311thGeneration_8GBRAM_256GBSSD_Windo_1_320x.png?v=1643610479"
-    ],
-    "tag_badge": "",
-    "title": "ACER AN515-45-R2GL LAPTOP",
-    "price": 99890,
-    "discount": 46,
-    "mrp": 126999,
-    "rating": 3.3,
-    "category": "Laptop",
-    "id": 98,
-    "description": "15.6 inch Full HD With IPS (In-Plane Switching) technology ( Acer Comfy View LED-backlit TFT LCD 16:9 aspect ratio supporting 144 Hz refresh rate) Light Laptop without Optical Disk Drive Pre-installed Genuine Windows 10 OS",
-    "brand": "Acer",
-    "quantity": 1,
-    "review": 53684
-  },
-  {
-    "color": [
-      "black",
-      "white",
-      "blue"
-    ],
+    "color": ["black", "white", "blue"],
     "image": [
       "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/3_743027d7-94ca-43e1-9c04-72ad6483c226_700x.png?v=1669055392",
       "https://cdn.shopify.com/s/files/1/0057/8938/4802/products/2_614c0321-f235-4765-b157-a8727f7e4aae_700x.png?v=1669055570",
@@ -87,15 +8,15 @@
     ],
     "tag_badge": "50 Hours Playback",
     "title": "Airdopes Atom 81",
-    "price": "998",
+    "price": 998,
     "discount": 71,
     "mrp": 3490,
     "rating": 5,
     "category": "wireless_earbuds",
     "id": 3,
-    "description": "Up to 50HRS Playback ENx™ Technology ASAP Fast Charge ",
+    "description": "Up to 50HRS Playback ENx™ Technology ASAP Fast Charge",
     "brand": "BOAT",
-    "quantity": 1,
+    "quantity": 20,
     "review": 48903
   }
 ]
