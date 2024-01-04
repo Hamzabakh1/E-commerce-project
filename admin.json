@@ -4,7 +4,7 @@
       "mobile": "9580013415",
       "email": "Hamza123@gmail.com",
       "password": "Hamza123",
-      "pic": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-89861094.jpg",
+      "pic": "",
       "id": 1
     },
     {
@@ -12,7 +12,16 @@
       "mobile": "8434022201",
       "email": "Smail22201@gmail.com",
       "password": "Smail123",
-      "pic": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-89861094.jpg",
+      "pic": "",
+      "id": 2
+    },
+    {
+      "name": "Tachfine Rachglou",
+      "mobile": "8434022201",
+      "email": "Tachfine22@gmail.com",
+      "password": "Tachfine123",
+      "pic": "",
       "id": 2
     }
+    
 ]
